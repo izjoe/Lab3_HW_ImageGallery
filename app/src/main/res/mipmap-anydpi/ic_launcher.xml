@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Intentionally empty placeholder to allow density-specific mipmap images to be used. Adaptive icon is provided in mipmap-anydpi-v26. -->
+
+<!-- No drawable declarations here because XML drawables must be placed in res/drawable/ -->
