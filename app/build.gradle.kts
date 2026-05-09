@@ -72,8 +72,8 @@ dependencies {
     implementation(libs.coil.compose)
 
     // ML Kit (On-device, no API key needed)
-    implementation(libs.mlkit.obj.detection)
-    implementation(libs.mlkit.image.labeling)
+    implementation(libs.mlkit.detector)
+    implementation(libs.mlkit.labeler)
     implementation(libs.kotlinx.coroutines.play.services)
 
     // Navigation
